@@ -1,4 +1,4 @@
-# Garage-FiveM
+# Garage-RageUI-FiveM
 
 - Ce script sert à ranger ses véhicule personnel dans un garage
 - Il est en RageUI
